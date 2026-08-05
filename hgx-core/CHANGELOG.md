@@ -7,6 +7,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.1](https://github.com/mattia-marini/hgx-rust/compare/hgx-core-v0.1.0...hgx-core-v0.1.1) - 2026-08-05
+
+### Added
+
+- feat2
+- feat1
+
+### Other
+
+- release v0.1.0
+
 ## [0.1.0](https://github.com/mattia-marini/hgx-rust/releases/tag/hgx-core-v0.1.0) - 2026-08-05
 
 ### Other
